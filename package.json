@@ -1,0 +1,27 @@
+{
+  "name": "skl-student-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilKumarLok/student-Management-System.git"
+  },
+  "author": "Sahil Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahilKumarLok/student-Management-System/issues"
+  },
+  "homepage": "https://github.com/SahilKumarLok/student-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
